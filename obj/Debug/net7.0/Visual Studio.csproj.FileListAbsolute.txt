@@ -1,0 +1,15 @@
+C:\Users\bgrav\Visual Studio\bin\Debug\net7.0\Visual Studio.exe
+C:\Users\bgrav\Visual Studio\bin\Debug\net7.0\Visual Studio.deps.json
+C:\Users\bgrav\Visual Studio\bin\Debug\net7.0\Visual Studio.runtimeconfig.json
+C:\Users\bgrav\Visual Studio\bin\Debug\net7.0\Visual Studio.dll
+C:\Users\bgrav\Visual Studio\bin\Debug\net7.0\Visual Studio.pdb
+C:\Users\bgrav\Visual Studio\obj\Debug\net7.0\Visual Studio.csproj.AssemblyReference.cache
+C:\Users\bgrav\Visual Studio\obj\Debug\net7.0\Visual Studio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgrav\Visual Studio\obj\Debug\net7.0\Visual Studio.AssemblyInfoInputs.cache
+C:\Users\bgrav\Visual Studio\obj\Debug\net7.0\Visual Studio.AssemblyInfo.cs
+C:\Users\bgrav\Visual Studio\obj\Debug\net7.0\Visual Studio.csproj.CoreCompileInputs.cache
+C:\Users\bgrav\Visual Studio\obj\Debug\net7.0\Visual Studio.dll
+C:\Users\bgrav\Visual Studio\obj\Debug\net7.0\refint\Visual Studio.dll
+C:\Users\bgrav\Visual Studio\obj\Debug\net7.0\Visual Studio.pdb
+C:\Users\bgrav\Visual Studio\obj\Debug\net7.0\Visual Studio.genruntimeconfig.cache
+C:\Users\bgrav\Visual Studio\obj\Debug\net7.0\ref\Visual Studio.dll
